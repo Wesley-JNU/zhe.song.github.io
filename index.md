@@ -2,8 +2,6 @@
 title: Welcome to my blog
 ---
 ---
-title: 江南大学质量品牌研究院
----
 
 # 江南大学质量品牌研究院
 
